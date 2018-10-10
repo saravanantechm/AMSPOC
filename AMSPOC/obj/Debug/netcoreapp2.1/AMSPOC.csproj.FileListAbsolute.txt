@@ -1,0 +1,14 @@
+D:\POC\Code\AMSPOC\AMSPOC\bin\Debug\netcoreapp2.1\AMSPOC.deps.json
+D:\POC\Code\AMSPOC\AMSPOC\bin\Debug\netcoreapp2.1\AMSPOC.runtimeconfig.json
+D:\POC\Code\AMSPOC\AMSPOC\bin\Debug\netcoreapp2.1\AMSPOC.runtimeconfig.dev.json
+D:\POC\Code\AMSPOC\AMSPOC\bin\Debug\netcoreapp2.1\AMSPOC.dll
+D:\POC\Code\AMSPOC\AMSPOC\bin\Debug\netcoreapp2.1\AMSPOC.pdb
+D:\POC\Code\AMSPOC\AMSPOC\obj\Debug\netcoreapp2.1\AMSPOC.csproj.CoreCompileInputs.cache
+D:\POC\Code\AMSPOC\AMSPOC\obj\Debug\netcoreapp2.1\AMSPOC.RazorAssemblyInfo.cache
+D:\POC\Code\AMSPOC\AMSPOC\obj\Debug\netcoreapp2.1\AMSPOC.RazorAssemblyInfo.cs
+D:\POC\Code\AMSPOC\AMSPOC\obj\Debug\netcoreapp2.1\AMSPOC.AssemblyInfoInputs.cache
+D:\POC\Code\AMSPOC\AMSPOC\obj\Debug\netcoreapp2.1\AMSPOC.AssemblyInfo.cs
+D:\POC\Code\AMSPOC\AMSPOC\obj\Debug\netcoreapp2.1\AMSPOC.RazorTargetAssemblyInfo.cache
+D:\POC\Code\AMSPOC\AMSPOC\obj\Debug\netcoreapp2.1\AMSPOC.dll
+D:\POC\Code\AMSPOC\AMSPOC\obj\Debug\netcoreapp2.1\AMSPOC.pdb
+D:\POC\Code\AMSPOC\AMSPOC\obj\Debug\netcoreapp2.1\AMSPOC.csprojAssemblyReference.cache
